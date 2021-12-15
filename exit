@@ -1,0 +1,42 @@
+[33mcommit 8ec19bddf8309aba96ab58865228fd069b9f6e84[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;32mmain[m[33m)[m
+Merge: a7eff39 cc01578
+Author: teamLeader <teamleader.en@gmail.com>
+Date:   Wed Dec 15 03:32:24 2021 +0200
+
+    Solving conflicts
+
+[33mcommit cc01578cf7f20ab5c2466e6f0c397ec29b34250d[m[33m ([m[1;32mstyles[m[33m)[m
+Author: teamLeader <teamleader.en@gmail.com>
+Date:   Wed Dec 15 03:25:01 2021 +0200
+
+    Changin index.html
+
+[33mcommit 4af5518eec78d7ad541edb4aff35f75b7c57c018[m
+Author: teamLeader <teamleader.en@gmail.com>
+Date:   Wed Dec 15 02:44:29 2021 +0200
+
+    Adding styles folder with styles source inside it
+
+[33mcommit a7eff39455c1c5d4e1b0f7f20c9f9d8b1b585f7d[m[33m ([m[1;32mimages[m[33m)[m
+Author: teamLeader <teamleader.en@gmail.com>
+Date:   Wed Dec 15 02:35:21 2021 +0200
+
+    Adding images source index.html
+
+[33mcommit 14cac65a6ad1995b831a1eb284a298769a4257d4[m
+Author: teamLeader <teamleader.en@gmail.com>
+Date:   Wed Dec 15 02:16:23 2021 +0200
+
+    Adding images to /images/
+
+[33mcommit cf99c866b22e7e291637921926bb79ae737ea3dd[m
+Author: teamLeader <teamleader.en@gmail.com>
+Date:   Wed Dec 15 02:12:22 2021 +0200
+
+    Adding index.html
+
+[33mcommit 649746b676c74875b91f390f3551589f89f0228c[m
+Author: teamLeader <teamleader.en@gmail.com>
+Date:   Wed Dec 15 02:10:09 2021 +0200
+
+    Init commit

@@ -1,0 +1,16 @@
+8ec19bd HEAD@{0}: checkout: moving from main to develop
+8ec19bd HEAD@{1}: merge develop: Fast-forward
+649746b HEAD@{2}: checkout: moving from develop to main
+8ec19bd HEAD@{3}: commit (merge): Solving conflicts
+a7eff39 HEAD@{4}: merge images: Fast-forward
+cf99c86 HEAD@{5}: checkout: moving from styles to develop
+cc01578 HEAD@{6}: commit: Changin index.html
+4af5518 HEAD@{7}: commit: Adding styles folder with styles source inside it
+cf99c86 HEAD@{8}: checkout: moving from develop to styles
+cf99c86 HEAD@{9}: checkout: moving from images to develop
+a7eff39 HEAD@{10}: commit: Adding images source index.html
+14cac65 HEAD@{11}: commit: Adding images to /images/
+cf99c86 HEAD@{12}: checkout: moving from develop to images
+cf99c86 HEAD@{13}: commit: Adding index.html
+649746b HEAD@{14}: checkout: moving from main to develop
+649746b HEAD@{15}: commit (initial): Init commit
